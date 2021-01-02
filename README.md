@@ -1,7 +1,7 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 - 🎯 I’m currently working hard to become a great leader
-- 🇩🇪 I’m currently learning german because it seems fun :)
+- 💱 I’m currently building an app for tracking investments
 - 🌱 I’m targetting to read at least 4 books in 2021!
 
 ### ⚡ Fun facts
