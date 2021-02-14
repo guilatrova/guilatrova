@@ -3,10 +3,10 @@
 - 🎯 I’m currently working hard to become a great leader
 - 💱 I’m currently building an app for tracking investments
 - 🌱 I’m targetting to read at least 4 books in 2021!
-   - [ ] The Lean Startup
+   - [x] The Lean Startup
    - [ ] No Rules Rules
    - [ ] Antifragile
-   - [ ] Show your work
+   - [x] Show your work
 
 ### ⚡ Fun facts
 
