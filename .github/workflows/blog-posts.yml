@@ -14,10 +14,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: MEDIUM
-          feed_list: "https://medium.com/feed/@latrovacommits"
+          comment_tag_name: PERSONAL_BLOG
+          feed_list: "https://blog.guilatrova.dev/rss/"
 
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
