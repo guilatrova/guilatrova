@@ -34,7 +34,7 @@ You can find drafts and how I automate publishing to Medium in this repository: 
 
 🇧🇷 **Portuguese (BR)**
 <!-- MEDIUM-BR:START -->
-- [O que aprendi como líder em 2020](https://medium.com/@guilatrova/o-que-aprendi-como-l%C3%ADder-em-2020-39b125f7176b?source=rss-d7e46d8b9f7b------2)
-- [Como um DevOps você deveria estar fazendo seus backups assim](https://medium.com/@guilatrova/como-um-devops-voc%C3%AA-deveria-estar-fazendo-seus-backups-assim-517ad7c1b3c6?source=rss-d7e46d8b9f7b------2)
-- [Como obtive dados de todos os participantes da maratona IBM Behind The Code](https://medium.com/@guilatrova/como-obtive-dados-de-todos-os-participantes-da-maratona-ibm-behind-the-code-fd2038f5a187?source=rss-d7e46d8b9f7b------2)
+- [O que aprendi como líder em 2020](https://guilatrova.medium.com/o-que-aprendi-como-l%C3%ADder-em-2020-39b125f7176b?source=rss-d7e46d8b9f7b------2)
+- [Como um DevOps você deveria estar fazendo seus backups assim](https://guilatrova.medium.com/como-um-devops-voc%C3%AA-deveria-estar-fazendo-seus-backups-assim-517ad7c1b3c6?source=rss-d7e46d8b9f7b------2)
+- [Como obtive dados de todos os participantes da maratona IBM Behind The Code](https://guilatrova.medium.com/como-obtive-dados-de-todos-os-participantes-da-maratona-ibm-behind-the-code-fd2038f5a187?source=rss-d7e46d8b9f7b------2)
 <!-- MEDIUM-BR:END -->
