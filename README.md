@@ -25,11 +25,11 @@ You can find drafts and how I automate publishing to Medium in this repository: 
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
+- [Architectural challenges on integrating ifood](https://blog.guilatrova.dev/challenges-on-integrating-ifood/)
 - [Project: Profly](https://blog.guilatrova.dev/project-profly/)
 - [Project: Fixdin](https://blog.guilatrova.dev/project-fixdin/)
 - [Highlights: How to get rich without getting lucky](https://blog.guilatrova.dev/highlights-how-to-get-rich-without-getting-lucky/)
 - [📙 Book: Show your work](https://blog.guilatrova.dev/book-show-your-work/)
-- [Goals 2021](https://blog.guilatrova.dev/goals-2021/)
 <!-- PERSONAL_BLOG:END -->
 
 🇧🇷 **Portuguese (BR)**
