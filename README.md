@@ -25,11 +25,11 @@ You can find drafts and how I automate publishing to Medium in this repository: 
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
+- [Algorithm Solution: Minimum Moves Equal Array Elements](https://blog.guilatrova.dev/algorithm-solution-minimum-moves-equal-array-elements/)
 - [Algorithm Solution: Reconstruct Itinerary](https://blog.guilatrova.dev/algorithm-solution-reconstruct-itinerary/)
 - [Architectural challenges on integrating ifood](https://blog.guilatrova.dev/challenges-on-integrating-ifood/)
 - [Project: Profly](https://blog.guilatrova.dev/project-profly/)
 - [Project: Fixdin](https://blog.guilatrova.dev/project-fixdin/)
-- [Highlights: How to get rich without getting lucky](https://blog.guilatrova.dev/highlights-how-to-get-rich-without-getting-lucky/)
 <!-- PERSONAL_BLOG:END -->
 
 🇧🇷 **Portuguese (BR)**
