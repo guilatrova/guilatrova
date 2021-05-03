@@ -25,11 +25,11 @@ You can find drafts and how I automate publishing to Medium in this repository: 
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
+- [Building an agnostic microservice architecture with Kafka](https://blog.guilatrova.dev/building-an-agnostic-microservice-architecture-with-kafka/)
 - [Architectural challenges on integrating Rappi](https://blog.guilatrova.dev/architectural-challenges-on-integrating-rappi/)
 - [Goals 2021/Q2](https://blog.guilatrova.dev/goals-q2-2021/)
 - [Project: INCC Crawler](https://blog.guilatrova.dev/project-incc-crawler/)
 - [Algorithm Solution: Minimum Moves Equal Array Elements](https://blog.guilatrova.dev/algorithm-solution-minimum-moves-equal-array-elements/)
-- [Algorithm Solution: Reconstruct Itinerary](https://blog.guilatrova.dev/algorithm-solution-reconstruct-itinerary/)
 <!-- PERSONAL_BLOG:END -->
 
 🇧🇷 **Portuguese (BR)**
