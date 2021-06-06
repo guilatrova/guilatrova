@@ -25,11 +25,11 @@ You can find drafts and how I automate publishing to Medium in this repository: 
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
+- [Async python in real life 🐍🔀](https://blog.guilatrova.dev/async-python-in-real-life/)
 - [Handling exceptions in Python like a pro 🐍 💣](https://blog.guilatrova.dev/handling-exceptions-in-python-like-a-pro/)
 - [Building an agnostic microservice architecture with Kafka](https://blog.guilatrova.dev/building-an-agnostic-microservice-architecture-with-kafka/)
 - [Architectural challenges on integrating Rappi](https://blog.guilatrova.dev/architectural-challenges-on-integrating-rappi/)
 - [Goals 2021/Q2](https://blog.guilatrova.dev/goals-q2-2021/)
-- [Project: INCC Crawler](https://blog.guilatrova.dev/project-incc-crawler/)
 <!-- PERSONAL_BLOG:END -->
 
 🇧🇷 **Portuguese (BR)**
