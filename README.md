@@ -1,11 +1,16 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-- 🎯 I’m currently working hard to become a great leader
-- 💱 I’m currently building an app for tracking investments (https://www.profly.app/)
+![](https://img.shields.io/twitter/follow/guilatrova?style=social)
+
+![](https://img.shields.io/github/followers/guilatrova?style=social)
+
+
+- 🎯 I’m currently working hard to become a better engineer
+- 🦖 I’m currently building a [dinosaur linter for Python](https://blog.guilatrova.dev/project-tryceratops/)
 - 🌱 I’m targetting to read at least 4 books in 2021!
    - [x] The Lean Startup
    - [ ] No Rules Rules
-   - [ ] Antifragile
+   - [ ] Antifragile 👈
    - [x] Show your work
 
 ### ⚡ Fun facts
