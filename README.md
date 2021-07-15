@@ -5,7 +5,10 @@
 [![](https://img.shields.io/github/followers/guilatrova?style=social)](#)
 
 
-- 🎯 I’m currently working hard to become a better engineer
+- 🎯 I’m currently working hard from Brazil 🇧🇷 to solve big challenges in a San Francisco 🇺🇸 startup [Lumos](https://github.com/teamlumos). 
+   - By the way we're hiring!!! 
+       - 🚀 **Do you want to make the difference in an early stage startup working from anywhere?** 
+       - 📨 Send an email to `gui AT lumosidentity.com` and let's chat.
 - 🦖 I’m currently building a [dinosaur linter for Python](https://blog.guilatrova.dev/project-tryceratops/)
 - 🌱 I’m targetting to read at least 4 books in 2021!
    - [x] The Lean Startup
