@@ -33,11 +33,11 @@ You can find drafts and how I automate publishing to Medium in this repository: 
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
+- [How to structure exceptions in Python like a PRO 🐍 🏗️ 💣](https://blog.guilatrova.dev/how-to-structure-exception-in-python-like-a-pro/)
 - [Procrastination is your antifragile mechanism (2021/Q3)](https://blog.guilatrova.dev/procrastination-is-your-antifragile-mechanism-q3-2021/)
 - [Project: Tryceratops 🦖✨](https://blog.guilatrova.dev/project-tryceratops/)
 - [📕 Book: Principles Life & Work](https://blog.guilatrova.dev/book-principles-life-work/)
 - [Async python in real life 🐍🔀](https://blog.guilatrova.dev/async-python-in-real-life/)
-- [Handling exceptions in Python like a pro 🐍 💣](https://blog.guilatrova.dev/handling-exceptions-in-python-like-a-pro/)
 <!-- PERSONAL_BLOG:END -->
 
 🇧🇷 **Portuguese (BR)**
