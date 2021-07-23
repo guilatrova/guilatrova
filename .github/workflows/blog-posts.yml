@@ -19,6 +19,7 @@ jobs:
         with:
           comment_tag_name: PERSONAL_BLOG
           feed_list: "https://blog.guilatrova.dev/rss/"
+          max_post_count: 10
 
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
