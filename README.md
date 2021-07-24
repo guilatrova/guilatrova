@@ -33,6 +33,7 @@ You can find drafts and how I automate publishing to Medium in this repository: 
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
+- [Semantic Release to automate publishing to PyPI 🚀🐍](https://blog.guilatrova.dev/semantic-release-to-automate-versioning-and-publishing-to-pypi-with-github-actions/)
 - [How to structure exceptions in Python like a PRO 🐍 🏗️ 💣](https://blog.guilatrova.dev/how-to-structure-exception-in-python-like-a-pro/)
 - [Procrastination is your antifragile mechanism (2021/Q3)](https://blog.guilatrova.dev/procrastination-is-your-antifragile-mechanism-q3-2021/)
 - [Project: Tryceratops 🦖✨](https://blog.guilatrova.dev/project-tryceratops/)
@@ -42,7 +43,6 @@ You can find drafts and how I automate publishing to Medium in this repository: 
 - [Building an agnostic microservice architecture with Kafka](https://blog.guilatrova.dev/building-an-agnostic-microservice-architecture-with-kafka/)
 - [Architectural challenges on integrating Rappi](https://blog.guilatrova.dev/architectural-challenges-on-integrating-rappi/)
 - [Goals 2021/Q2](https://blog.guilatrova.dev/goals-q2-2021/)
-- [Project: INCC Crawler](https://blog.guilatrova.dev/project-incc-crawler/)
 <!-- PERSONAL_BLOG:END -->
 
 🇧🇷 **Portuguese (BR)**
