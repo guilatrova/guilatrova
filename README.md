@@ -13,7 +13,8 @@
 - 🌱 I’m targetting to read at least 4 books in 2021!
    - [x] The Lean Startup
    - [ ] No Rules Rules
-   - [ ] Antifragile 👈
+   - [ ] Antifragile ⏸
+   - [ ] Atomic Habits 👈
    - [x] Show your work
 
 ### ⚡ Fun facts
