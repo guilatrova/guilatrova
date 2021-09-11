@@ -14,7 +14,7 @@
    - [x] The Lean Startup
    - [ ] No Rules Rules
    - [ ] Antifragile ⏸
-   - [ ] Atomic Habits 👈
+   - [x] Atomic Habits
    - [x] Show your work
 
 ### ⚡ Fun facts
