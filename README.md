@@ -19,7 +19,7 @@
 
 ### ⚡ Fun facts
 
-- ☕ I love good coffee
+- ☕ I love good coffee (not fun, but tasty)
 - 🥊 Boxing, skipping and jogging helps keeping me focused on my work
 - 😛 I broke production a few times haha
 - 🧘 I often meditate to manage my anxiety
