@@ -23,7 +23,7 @@
 - 🥊 Boxing, skipping and jogging helps keeping me focused on my work
 - 😛 I broke production a few times haha
 - 🧘 I often meditate to manage my anxiety
-- 🤖 I automate everything that I can ([this readme for example...](https://github.com/guilatrova/guilatrova))
+- 🤖 I automate everything that I can ([like this readme](https://github.com/guilatrova/guilatrova))
 
 
 ## 📝 Blog Posts
