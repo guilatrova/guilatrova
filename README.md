@@ -12,7 +12,7 @@
 - 🦖 I’m currently building a [dinosaur linter for Python](https://blog.guilatrova.dev/project-tryceratops/)
 - 🌱 I’m targetting to read at least 4 books in 2021!
    - [x] The Lean Startup
-   - [ ] No Rules Rules
+   - [ ] What Has Government Done to Our Money? 👈
    - [ ] Antifragile ⏸
    - [x] Atomic Habits
    - [x] Show your work
