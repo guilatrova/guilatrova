@@ -34,6 +34,7 @@ You can find drafts and how I automate publishing to Medium in this repository: 
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
+- [Optimize your Time, Prioritize your Energy](https://blog.guilatrova.dev/optimize-your-time-prioritize-your-energy/)
 - [Logging in Python like a PRO 🐍🌴](https://blog.guilatrova.dev/how-to-log-in-python-like-a-pro/)
 - [Kubernetes made simple](https://blog.guilatrova.dev/kubernetes-tutorial-for-dummies/)
 - [Semantic Release to automate publishing to PyPI 🚀🐍](https://blog.guilatrova.dev/semantic-release-to-automate-versioning-and-publishing-to-pypi-with-github-actions/)
@@ -43,7 +44,6 @@ You can find drafts and how I automate publishing to Medium in this repository: 
 - [📕 Book: Principles Life & Work](https://blog.guilatrova.dev/book-principles-life-work/)
 - [Async python in real life 🐍🔀](https://blog.guilatrova.dev/async-python-in-real-life/)
 - [Handling exceptions in Python like a pro 🐍 💣](https://blog.guilatrova.dev/handling-exceptions-in-python-like-a-pro/)
-- [Building an agnostic microservice architecture with Kafka](https://blog.guilatrova.dev/building-an-agnostic-microservice-architecture-with-kafka/)
 <!-- PERSONAL_BLOG:END -->
 
 🇧🇷 **Portuguese (BR)**
