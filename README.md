@@ -30,7 +30,7 @@
 
 > If you wish to see all of them: https://blog.guilatrova.dev
 
-You can find drafts and how I automate publishing to Medium in this repository: [guilatrova/latrovacommits-articles](https://github.com/guilatrova/latrovacommits-articles)
+You can find drafts in this repository: [guilatrova/latrovacommits-articles](https://github.com/guilatrova/latrovacommits-articles)
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
@@ -46,7 +46,7 @@ You can find drafts and how I automate publishing to Medium in this repository: 
 - [Handling exceptions in Python like a PRO 🐍 💣](https://blog.guilatrova.dev/handling-exceptions-in-python-like-a-pro/)
 <!-- PERSONAL_BLOG:END -->
 
-🇧🇷 **Portuguese (BR)**
+🇧🇷 **Portuguese (BR, not updated anymore)**
 <!-- MEDIUM-BR:START -->
 - [O que aprendi como líder em 2020](https://guilatrova.medium.com/o-que-aprendi-como-l%C3%ADder-em-2020-39b125f7176b?source=rss-d7e46d8b9f7b------2)
 - [Como um DevOps você deveria estar fazendo seus backups assim](https://guilatrova.medium.com/como-um-devops-voc%C3%AA-deveria-estar-fazendo-seus-backups-assim-517ad7c1b3c6?source=rss-d7e46d8b9f7b------2)
