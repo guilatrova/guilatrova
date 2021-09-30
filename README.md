@@ -34,6 +34,7 @@ You can find drafts in this repository: [guilatrova/latrovacommits-articles](htt
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
+- [How SQL Injection attack works 💉🔓](https://blog.guilatrova.dev/how-sql-injection-attack-works-with-examples/)
 - [Optimize your Time, Prioritize your Energy](https://blog.guilatrova.dev/optimize-your-time-prioritize-your-energy/)
 - [Logging in Python like a PRO 🐍🌴](https://blog.guilatrova.dev/how-to-log-in-python-like-a-pro/)
 - [Kubernetes made simple](https://blog.guilatrova.dev/kubernetes-tutorial-for-dummies/)
@@ -43,7 +44,6 @@ You can find drafts in this repository: [guilatrova/latrovacommits-articles](htt
 - [Project: Tryceratops 🦖✨](https://blog.guilatrova.dev/project-tryceratops/)
 - [📕 Book: Principles Life & Work](https://blog.guilatrova.dev/book-principles-life-work/)
 - [Async python in real life 🐍🔀](https://blog.guilatrova.dev/async-python-in-real-life/)
-- [Handling exceptions in Python like a PRO 🐍 💣](https://blog.guilatrova.dev/handling-exceptions-in-python-like-a-pro/)
 <!-- PERSONAL_BLOG:END -->
 
 🇧🇷 **Portuguese (BR, not updated anymore)**
