@@ -34,6 +34,7 @@ You can find drafts in this repository: [guilatrova/latrovacommits-articles](htt
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
+- [Why the rush? (2021/Q4) 🎢](https://blog.guilatrova.dev/why-the-rush-2021-q4/)
 - [How SQL Injection attack works 💉🔓](https://blog.guilatrova.dev/how-sql-injection-attack-works-with-examples/)
 - [Optimize your Time, Prioritize your Energy](https://blog.guilatrova.dev/optimize-your-time-prioritize-your-energy/)
 - [Logging in Python like a PRO 🐍🌴](https://blog.guilatrova.dev/how-to-log-in-python-like-a-pro/)
@@ -43,7 +44,6 @@ You can find drafts in this repository: [guilatrova/latrovacommits-articles](htt
 - [Procrastination is your antifragile mechanism (2021/Q3)](https://blog.guilatrova.dev/procrastination-is-your-antifragile-mechanism-q3-2021/)
 - [Project: Tryceratops 🦖✨](https://blog.guilatrova.dev/project-tryceratops/)
 - [📕 Book: Principles Life & Work](https://blog.guilatrova.dev/book-principles-life-work/)
-- [Async python in real life 🐍🔀](https://blog.guilatrova.dev/async-python-in-real-life/)
 <!-- PERSONAL_BLOG:END -->
 
 🇧🇷 **Portuguese (BR, not updated anymore)**
