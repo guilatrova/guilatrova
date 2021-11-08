@@ -34,16 +34,16 @@ You can find drafts in this repository: [guilatrova/latrovacommits-articles](htt
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
-- [Why the rush? (2021/Q4) 🎢](https://blog.guilatrova.dev/why-the-rush-2021-q4/)
+- [Why the rush? &lpar;2021/Q4&rpar; 🎢](https://blog.guilatrova.dev/why-the-rush-2021-q4/)
 - [How SQL Injection attack works 💉🔓](https://blog.guilatrova.dev/how-sql-injection-attack-works-with-examples/)
 - [Optimize your Time, Prioritize your Energy](https://blog.guilatrova.dev/optimize-your-time-prioritize-your-energy/)
 - [Logging in Python like a PRO 🐍🌴](https://blog.guilatrova.dev/how-to-log-in-python-like-a-pro/)
 - [Kubernetes made simple](https://blog.guilatrova.dev/kubernetes-tutorial-for-dummies/)
 - [Semantic Release to automate publishing to PyPI 🚀🐍](https://blog.guilatrova.dev/semantic-release-to-automate-versioning-and-publishing-to-pypi-with-github-actions/)
 - [Structuring exceptions in Python like a PRO 🐍 🏗️ 💣](https://blog.guilatrova.dev/how-to-structure-exception-in-python-like-a-pro/)
-- [Procrastination is your antifragile mechanism (2021/Q3)](https://blog.guilatrova.dev/procrastination-is-your-antifragile-mechanism-q3-2021/)
+- [Procrastination is your antifragile mechanism &lpar;2021/Q3&rpar;](https://blog.guilatrova.dev/procrastination-is-your-antifragile-mechanism-q3-2021/)
 - [Project: Tryceratops 🦖✨](https://blog.guilatrova.dev/project-tryceratops/)
-- [📕 Book: Principles Life & Work](https://blog.guilatrova.dev/book-principles-life-work/)
+- [📕 Book: Principles Life &amp; Work](https://blog.guilatrova.dev/book-principles-life-work/)
 <!-- PERSONAL_BLOG:END -->
 
 🇧🇷 **Portuguese (BR, not updated anymore)**
