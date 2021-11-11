@@ -34,6 +34,8 @@ You can find drafts in this repository: [guilatrova/latrovacommits-articles](htt
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
+- [Restaurant Directory Listing - Call for Proposal](https://guicommits.com/antifragile-dev-1-restaurant-directory-listing-proposal/)
+- [Formal Education is Dead](https://guicommits.com/formal-education-is-dead/)
 - [Why the rush? &lpar;2021/Q4&rpar; 🎢](https://guicommits.com/why-the-rush-2021-q4/)
 - [How SQL Injection attack works 💉🔓](https://guicommits.com/how-sql-injection-attack-works-with-examples/)
 - [Optimize your Time, Prioritize your Energy](https://guicommits.com/optimize-your-time-prioritize-your-energy/)
@@ -42,8 +44,6 @@ You can find drafts in this repository: [guilatrova/latrovacommits-articles](htt
 - [Semantic Release to automate publishing to PyPI 🚀🐍](https://guicommits.com/semantic-release-to-automate-versioning-and-publishing-to-pypi-with-github-actions/)
 - [Structuring exceptions in Python like a PRO 🐍 🏗️ 💣](https://guicommits.com/how-to-structure-exception-in-python-like-a-pro/)
 - [Procrastination is your antifragile mechanism &lpar;2021/Q3&rpar;](https://guicommits.com/procrastination-is-your-antifragile-mechanism-q3-2021/)
-- [Project: Tryceratops 🦖✨](https://guicommits.com/project-tryceratops/)
-- [📕 Book: Principles Life &amp; Work](https://guicommits.com/book-principles-life-work/)
 <!-- PERSONAL_BLOG:END -->
 
 🇧🇷 **Portuguese (BR, not updated anymore)**
