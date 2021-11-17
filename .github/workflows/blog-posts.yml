@@ -18,10 +18,10 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: PERSONAL_BLOG
-          feed_list: "https://blog.guilatrova.dev/rss/"
+          feed_list: "https://guicommits.com/rss/"
           max_post_count: 10
 
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: MEDIUM-BR
-          feed_list: "https://medium.com/feed/@guilatrova"
+      # - uses: gautamkrishnar/blog-post-workflow@master
+      #   with:
+      #     comment_tag_name: MEDIUM-BR
+      #     feed_list: "https://medium.com/feed/@guilatrova"
