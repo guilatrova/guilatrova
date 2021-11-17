@@ -1,21 +1,25 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![](https://img.shields.io/twitter/follow/guilatrova?style=social)](https://twitter.com/guilatrova)
+<p align="center">
+<a href="https://guicommits.com/antifragile-dev-1-restaurant-directory-listing-proposal/"><img alt="antifragile project" src="https://img.shields.io/badge/%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB-antifragile--dev-green"></a>
+<a href="#"><img alt="follow on github" src="https://img.shields.io/github/followers/guilatrova?style=social"/></a>
+<a href="https://twitter.com/intent/user?screen_name=guilatrova"><img alt="follow on twitter" src="https://img.shields.io/twitter/follow/guilatrova?style=social"/></a>
+</p>
 
-[![](https://img.shields.io/github/followers/guilatrova?style=social)](#)
+## 🧑‍💻 What I'm up to
 
-
-- 🎯 I’m currently working hard from Brazil 🇧🇷 to solve big challenges in a San Francisco 🇺🇸 startup [Lumos](https://github.com/teamlumos). 
-   - By the way we're hiring!!! 
-       - 🚀 **Do you want to make the difference in an early stage startup working from anywhere?** 
+- 🎯 I’m currently working hard from Brazil 🇧🇷 to solve big challenges in a San Francisco 🇺🇸 startup [Lumos](https://github.com/teamlumos).
+   - By the way we're hiring!!!
+       - 🚀 **Do you want to make the difference in an early stage startup working from anywhere?**
        - 📨 Send an email to `gui AT lumosidentity.com` and let's chat.
-- 🦖 I’m currently building a [dinosaur linter for Python](https://blog.guilatrova.dev/project-tryceratops/)
+- 👷‍♂️ I'm currently building a [microservice architecture in public](https://guicommits.com/series/antifragile-dev/)
+- 🦖 I’m taking care of a [dinosaur linter for Python](https://guicommits.com/project-tryceratops/)
 - 🌱 I’m targetting to read at least 4 books in 2021!
    - [x] The Lean Startup
-   - [ ] What Has Government Done to Our Money? 👈
-   - [ ] Antifragile ⏸
-   - [x] Atomic Habits
    - [x] Show your work
+   - [x] Atomic Habits
+   - [ ] Antifragile ⏸
+   - [ ] What Has Government Done to Our Money? 👈
 
 ### ⚡ Fun facts
 
@@ -28,9 +32,9 @@
 
 ## 📝 Blog Posts
 
-> If you wish to see all of them: https://blog.guilatrova.dev
+> If you wish to see all of them: https://guicommits.com
 
-You can find drafts in this repository: [guilatrova/latrovacommits-articles](https://github.com/guilatrova/latrovacommits-articles)
+You can find drafts in this repository: [guilatrova/guicommits-articles](https://github.com/guilatrova/guicommits-articles)
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
@@ -46,7 +50,7 @@ You can find drafts in this repository: [guilatrova/latrovacommits-articles](htt
 - [Procrastination is your antifragile mechanism &lpar;2021/Q3&rpar;](https://guicommits.com/procrastination-is-your-antifragile-mechanism-q3-2021/)
 <!-- PERSONAL_BLOG:END -->
 
-🇧🇷 **Portuguese (BR, not updated anymore)**
+🇧🇷 **Portuguese (not maintained anymore)**
 <!-- MEDIUM-BR:START -->
 - [O que aprendi como líder em 2020](https://guilatrova.medium.com/o-que-aprendi-como-l%C3%ADder-em-2020-39b125f7176b?source=rss-d7e46d8b9f7b------2)
 - [Como um DevOps você deveria estar fazendo seus backups assim](https://guilatrova.medium.com/como-um-devops-voc%C3%AA-deveria-estar-fazendo-seus-backups-assim-517ad7c1b3c6?source=rss-d7e46d8b9f7b------2)
