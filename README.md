@@ -56,3 +56,7 @@ You can find drafts in this repository: [guilatrova/guicommits-articles](https:/
 - [Como um DevOps você deveria estar fazendo seus backups assim](https://guilatrova.medium.com/como-um-devops-voc%C3%AA-deveria-estar-fazendo-seus-backups-assim-517ad7c1b3c6?source=rss-d7e46d8b9f7b------2)
 - [Como obtive dados de todos os participantes da maratona IBM Behind The Code](https://guilatrova.medium.com/como-obtive-dados-de-todos-os-participantes-da-maratona-ibm-behind-the-code-fd2038f5a187?source=rss-d7e46d8b9f7b------2)
 <!-- MEDIUM-BR:END -->
+
+## 📈 Stats
+
+[![Gui's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilatrova&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
