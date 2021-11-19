@@ -38,11 +38,7 @@
 - 🤖 I automate everything that I can ([like this readme](https://github.com/guilatrova/guilatrova))
 
 
-## 📝 Blog Posts
-
-> If you wish to see all of them: https://guicommits.com
-
-You can find drafts in this repository: [guilatrova/guicommits-articles](https://github.com/guilatrova/guicommits-articles)
+## 📝 [Blog](https://guicommits.com) Posts
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
