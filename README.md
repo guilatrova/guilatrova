@@ -8,24 +8,32 @@
 
 ## 🧑‍💻 What I'm up to
 
-- 🎯 I’m currently working hard from Brazil 🇧🇷 to solve big challenges in a San Francisco 🇺🇸 startup [Lumos](https://github.com/teamlumos).
-   - By the way we're hiring!!!
-       - 🚀 **Do you want to make the difference in an early stage startup working from anywhere?**
-       - 📨 Send an email to `gui AT lumosidentity.com` and let's chat.
+- <details>
+   <summary>🎯 I’m currently working hard from Brazil 🇧🇷 to solve big challenges in a San Francisco 🇺🇸 startup <a href="https://lumosidentity.com/">Lumos</a>.   </summary>
+   
+   ## 🎊 We're hiring
+
+   🚀 **Do you want to make the difference in an early stage startup working from anywhere?**
+   
+   📨 Send an email to `gui AT lumosidentity.com` and let's chat.
+     
+  </details>
 - 👷‍♂️ I'm currently building a [microservice architecture in public](https://guicommits.com/series/antifragile-dev/)
 - 🦖 I’m taking care of a [dinosaur linter for Python](https://guicommits.com/project-tryceratops/)
-- 🌱 I’m targetting to read at least 4 books in 2021!
+- <details>
+  <summary>🌱 I’m targetting to read at least 4 books in 2021!</summary>
+   
    - [x] The Lean Startup
    - [x] Show your work
    - [x] Atomic Habits
    - [ ] Antifragile ⏸
    - [ ] What Has Government Done to Our Money? 👈
+   </details>
 
 ### ⚡ Fun facts
 
-- ☕ I love good coffee (not fun, but tasty)
-- 🥊 Boxing, skipping and jogging helps keeping me focused on my work
 - 😛 I broke production a few times haha
+- 🥊 Boxing, skipping and jogging helps keeping me focused on my work
 - 🧘 I often meditate to manage my anxiety
 - 🤖 I automate everything that I can ([like this readme](https://github.com/guilatrova/guilatrova))
 
