@@ -38,6 +38,7 @@ You can find drafts in this repository: [guilatrova/guicommits-articles](https:/
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
+- [Project: Google Maps Crawler 🗺🪲](https://guicommits.com/selenium-example-with-python-gmaps/)
 - [Restaurant Directory Listing - Call for Proposal](https://guicommits.com/antifragile-dev-1-restaurant-directory-listing-proposal/)
 - [Formal Education is Dead](https://guicommits.com/formal-education-is-dead/)
 - [Why the rush? &lpar;2021/Q4&rpar; 🎢](https://guicommits.com/why-the-rush-2021-q4/)
@@ -47,7 +48,6 @@ You can find drafts in this repository: [guilatrova/guicommits-articles](https:/
 - [Kubernetes made simple](https://guicommits.com/kubernetes-tutorial-for-dummies/)
 - [Semantic Release to automate publishing to PyPI 🚀🐍](https://guicommits.com/semantic-release-to-automate-versioning-and-publishing-to-pypi-with-github-actions/)
 - [Structuring exceptions in Python like a PRO 🐍 🏗️ 💣](https://guicommits.com/how-to-structure-exception-in-python-like-a-pro/)
-- [Procrastination is your antifragile mechanism &lpar;2021/Q3&rpar;](https://guicommits.com/procrastination-is-your-antifragile-mechanism-q3-2021/)
 <!-- PERSONAL_BLOG:END -->
 
 🇧🇷 **Portuguese (not maintained anymore)**
