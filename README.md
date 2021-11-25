@@ -37,6 +37,7 @@
   🦖 I’m taking care of a <a href="https://guicommits.com/project-tryceratops/">dinosaur linter for Python</a>
   </summary>
 
+   <br />
    <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilatrova&repo=tryceratops" />
    </p>
