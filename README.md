@@ -25,8 +25,11 @@
   </summary>
 
    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilatrova&repo=gmaps-crawler&theme=merko" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilatrova&repo=restaurant-directory-listing-infra&theme=merko" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilatrova&repo=gmaps-crawler&theme=merko#gh-dark-mode-only" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilatrova&repo=gmaps-crawler#gh-light-mode-only" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilatrova&repo=restaurant-directory-listing-infra&theme=merko#gh-dark-mode-only" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilatrova&repo=restaurant-directory-listing-infra#gh-light-mode-only" />
    </p>
 
   </details>
@@ -37,7 +40,8 @@
   </summary>
 
    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilatrova&repo=tryceratops&theme=merko" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilatrova&repo=tryceratops&theme=merko#gh-dark-mode-only" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilatrova&repo=tryceratops#gh-light-mode-only" />
    </p>
 
   </details>
@@ -87,6 +91,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=guilatrova&show_icons=true&theme=merko" />
+<img src="https://github-readme-stats.vercel.app/api?username=guilatrova&show_icons=true&theme=merko#gh-dark-mode-only" />
+<img src="https://github-readme-stats.vercel.app/api?username=guilatrova&show_icons=true#gh-light-mode-only" />
 
 </p>
