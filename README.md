@@ -10,19 +10,41 @@
 
 - <details>
    <summary>🎯 I’m currently working hard from Brazil 🇧🇷 to solve big challenges in a San Francisco 🇺🇸 startup <a href="https://lumosidentity.com/">Lumos</a>.   </summary>
-   
-   ## 🎊 We're hiring
+
+   <h2>🎊 We're hiring</h2>
 
    🚀 **Do you want to make the difference in an early stage startup working from anywhere?**
-   
+
    📨 Send an email to `gui AT lumosidentity.com` and let's chat.
-     
+
   </details>
-- 👷‍♂️ I'm currently building a [microservice architecture in public](https://guicommits.com/series/antifragile-dev/)
-- 🦖 I’m taking care of a [dinosaur linter for Python](https://guicommits.com/project-tryceratops/)
+
+- <details>
+  <summary>
+   👷‍♂️ I'm currently building a <a href="https://guicommits.com/series/antifragile-dev/">microservice architecture in public</a>
+  </summary>
+
+   <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilatrova&repo=gmaps-crawler&theme=merko" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilatrova&repo=restaurant-directory-listing-infra&theme=merko" />
+   </p>
+
+  </details>
+
+- <details>
+  <summary>
+  🦖 I’m taking care of a <a href="https://guicommits.com/project-tryceratops/">dinosaur linter for Python</a>
+  </summary>
+
+   <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilatrova&repo=tryceratops&theme=merko" />
+   </p>
+
+  </details>
+
 - <details>
   <summary>🌱 I’m targetting to read at least 4 books in 2021!</summary>
-   
+
    - [x] The Lean Startup
    - [x] Show your work
    - [x] Atomic Habits
@@ -64,7 +86,7 @@
 ## 📈 Stats
 
 <p align="center">
-   
+
 <img src="https://github-readme-stats.vercel.app/api?username=guilatrova&show_icons=true&theme=merko" />
-   
+
 </p>
