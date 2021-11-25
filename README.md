@@ -9,17 +9,6 @@
 ## 🧑‍💻 What I'm up to
 
 - <details>
-   <summary>🎯 I’m currently working hard from Brazil 🇧🇷 to solve big challenges in a San Francisco 🇺🇸 startup <a href="https://lumosidentity.com/">Lumos</a>.   </summary>
-
-   <h2>🎊 We're hiring</h2>
-
-   🚀 **Do you want to make the difference in an early stage startup working from anywhere?**
-
-   📨 Send an email to `gui AT lumosidentity.com` and let's chat.
-
-  </details>
-
-- <details>
   <summary>
    👷‍♂️ I'm currently building a <a href="https://guicommits.com/series/antifragile-dev/">microservice architecture in public</a>
   </summary>
@@ -41,6 +30,17 @@
    <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilatrova&repo=tryceratops" />
    </p>
+
+  </details>
+
+- <details>
+   <summary>🎯 I’m currently working hard from Brazil 🇧🇷 to solve big challenges in a San Francisco 🇺🇸 startup <a href="https://lumosidentity.com/">Lumos</a>.   </summary>
+
+   <h2>🎊 We're hiring</h2>
+
+   🚀 **Do you want to make the difference in an early stage startup working from anywhere?**
+
+   📨 Send an email to `gui AT lumosidentity.com` and let's chat.
 
   </details>
 
