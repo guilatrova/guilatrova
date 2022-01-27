@@ -67,6 +67,7 @@
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
+- [Abstract your code](https://guicommits.com/abstract-your-code/)
 - [AWS Organizations with Terraform Workspaces](https://guicommits.com/why-use-aws-organizations-with-terraform/)
 - [Project: Google Maps Crawler 🗺🪲](https://guicommits.com/selenium-example-with-python-gmaps/)
 - [Restaurant Directory Listing - Call for Proposal](https://guicommits.com/antifragile-dev-1-restaurant-directory-listing-proposal/)
@@ -76,7 +77,6 @@
 - [Optimize your Time, Prioritize your Energy](https://guicommits.com/optimize-your-time-prioritize-your-energy/)
 - [Logging in Python like a PRO 🐍🌴](https://guicommits.com/how-to-log-in-python-like-a-pro/)
 - [Kubernetes made simple](https://guicommits.com/kubernetes-tutorial-for-dummies/)
-- [Semantic Release to automate publishing to PyPI 🚀🐍](https://guicommits.com/semantic-release-to-automate-versioning-and-publishing-to-pypi-with-github-actions/)
 <!-- PERSONAL_BLOG:END -->
 
 🇧🇷 **Portuguese (not maintained anymore)**
