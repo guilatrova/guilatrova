@@ -67,6 +67,7 @@
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
+- [How to use yield in Python](https://guicommits.com/python-yield-examples/)
 - [Abstract your code](https://guicommits.com/abstract-your-code/)
 - [AWS Organizations with Terraform Workspaces](https://guicommits.com/why-use-aws-organizations-with-terraform/)
 - [Project: Google Maps Crawler 🗺🪲](https://guicommits.com/selenium-example-with-python-gmaps/)
@@ -76,7 +77,6 @@
 - [How SQL Injection attack works 💉🔓](https://guicommits.com/how-sql-injection-attack-works-with-examples/)
 - [Optimize your Time, Prioritize your Energy](https://guicommits.com/optimize-your-time-prioritize-your-energy/)
 - [Logging in Python like a PRO 🐍🌴](https://guicommits.com/how-to-log-in-python-like-a-pro/)
-- [Kubernetes made simple](https://guicommits.com/kubernetes-tutorial-for-dummies/)
 <!-- PERSONAL_BLOG:END -->
 
 🇧🇷 **Portuguese (not maintained anymore)**
