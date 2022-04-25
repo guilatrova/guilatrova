@@ -34,26 +34,8 @@
 
   </details>
 
-- <details>
-   <summary>🎯 I’m currently working hard from Brazil 🇧🇷 to solve big challenges in a San Francisco 🇺🇸 startup <a href="https://lumosidentity.com/">Lumos</a>.   </summary>
+- 🎯 I’m currently working hard from Brazil 🇧🇷 to solve big challenges in a San Francisco 🇺🇸 startup.
 
-   <h2>🎊 We're hiring</h2>
-
-   🚀 **Do you want to make the difference in an early stage startup working from anywhere?**
-
-   📨 Send an email to `gui AT lumosidentity.com` and let's chat.
-
-  </details>
-
-- <details>
-  <summary>🌱 I’m targetting to read at least 4 books in 2021!</summary>
-
-   - [x] The Lean Startup
-   - [x] Show your work
-   - [x] Atomic Habits
-   - [ ] Antifragile ⏸
-   - [ ] What Has Government Done to Our Money? 👈
-   </details>
 
 ### ⚡ Fun facts
 
