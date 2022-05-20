@@ -49,6 +49,7 @@
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
+- [Building a Blockchain with Python 🐍⛓️](https://guicommits.com/building-blockchain-with-python/)
 - [How to use yield in Python](https://guicommits.com/python-yield-examples/)
 - [Abstract your code](https://guicommits.com/abstract-your-code/)
 - [AWS Organizations with Terraform Workspaces](https://guicommits.com/why-use-aws-organizations-with-terraform/)
@@ -58,7 +59,6 @@
 - [Why the rush? &lpar;2021/Q4&rpar; 🎢](https://guicommits.com/why-the-rush-2021-q4/)
 - [How SQL Injection attack works 💉🔓](https://guicommits.com/how-sql-injection-attack-works-with-examples/)
 - [Optimize your Time, Prioritize your Energy](https://guicommits.com/optimize-your-time-prioritize-your-energy/)
-- [Logging in Python like a PRO 🐍🌴](https://guicommits.com/how-to-log-in-python-like-a-pro/)
 <!-- PERSONAL_BLOG:END -->
 
 🇧🇷 **Portuguese (not maintained anymore)**
