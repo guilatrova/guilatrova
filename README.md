@@ -1,7 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="center">
-<a href="https://guicommits.com/antifragile-dev-1-restaurant-directory-listing-proposal/"><img alt="antifragile project" src="https://img.shields.io/badge/%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB-antifragile--dev-green"></a>
 <a href="#"><img alt="follow on github" src="https://img.shields.io/github/followers/guilatrova?style=social"/></a>
 <a href="https://twitter.com/intent/user?screen_name=guilatrova"><img alt="follow on twitter" src="https://img.shields.io/twitter/follow/guilatrova?style=social"/></a>
 </p>
