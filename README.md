@@ -10,20 +10,6 @@
 
 - <details>
   <summary>
-   👷‍♂️ I'm currently building a <a href="https://guicommits.com/series/antifragile-dev/">microservice architecture in public</a>
-  </summary>
-
-   <p align="center">
-      <a href="https://twitter.com/hashtag/antifragiledev"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=%23antifragiledev&url=https%3A%2F%2Ftwitter.com%2Fhashtag%2Fantifragiledev"></a>
-      <br/>
-      <a href="https://github.com/guilatrova/gmaps-crawler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilatrova&repo=gmaps-crawler" /></a>
-      <a href="https://github.com/guilatrova/restaurant-directory-listing-infra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilatrova&repo=restaurant-directory-listing-infra" /></a>
-   </p>
-
-  </details>
-
-- <details>
-  <summary>
   🦖 I’m taking care of a <a href="https://guicommits.com/project-tryceratops/">dinosaur linter for Python</a>
   </summary>
 
