@@ -34,7 +34,7 @@
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
-- [Organize Python code like a PRO](https://guicommits.com/organize-python-code-like-a-pro/)
+- [Organize Python code like a PRO 🐍📦](https://guicommits.com/organize-python-code-like-a-pro/)
 - [Python 3.11 What&#39;s New?](https://guicommits.com/python-3-11-whats-new/)
 - [Building a Blockchain with Python 🐍⛓️](https://guicommits.com/building-blockchain-with-python/)
 - [How to use yield in Python](https://guicommits.com/python-yield-examples/)
