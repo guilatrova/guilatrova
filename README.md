@@ -34,6 +34,7 @@
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
+- [Python Match Case is more powerful than you think 🐍🕹️](https://guicommits.com/python-match-case-examples/)
 - [Organize Python code like a PRO 🐍📦](https://guicommits.com/organize-python-code-like-a-pro/)
 - [Python 3.11 What&#39;s New?](https://guicommits.com/python-3-11-whats-new/)
 - [Building a Blockchain with Python 🐍⛓️](https://guicommits.com/building-blockchain-with-python/)
@@ -43,7 +44,6 @@
 - [Project: Google Maps Crawler 🗺🪲](https://guicommits.com/selenium-example-with-python-gmaps/)
 - [Restaurant Directory Listing - Call for Proposal](https://guicommits.com/antifragile-dev-1-restaurant-directory-listing-proposal/)
 - [Formal Education is Dead](https://guicommits.com/formal-education-is-dead/)
-- [Why the rush? &lpar;2021/Q4&rpar; 🎢](https://guicommits.com/why-the-rush-2021-q4/)
 <!-- PERSONAL_BLOG:END -->
 
 🇧🇷 **Portuguese (not maintained anymore)**
