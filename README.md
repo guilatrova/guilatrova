@@ -34,6 +34,7 @@
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
+- [Effective Python Async like a PRO 🐍🔀](https://guicommits.com/effective-python-async-like-a-pro/)
 - [Pyrun: Execute Python inside your Twitter, Facebook, Linkedin](https://guicommits.com/pyrun-run-python-from-tweets/)
 - [Python Match Case is more powerful than you think 🐍🕹️](https://guicommits.com/python-match-case-examples/)
 - [Organize Python code like a PRO 🐍📦](https://guicommits.com/organize-python-code-like-a-pro/)
@@ -43,7 +44,6 @@
 - [Abstract your code](https://guicommits.com/abstract-your-code/)
 - [AWS Organizations with Terraform Workspaces](https://guicommits.com/why-use-aws-organizations-with-terraform/)
 - [Project: Google Maps Crawler 🗺🪲](https://guicommits.com/selenium-example-with-python-gmaps/)
-- [Restaurant Directory Listing - Call for Proposal](https://guicommits.com/antifragile-dev-1-restaurant-directory-listing-proposal/)
 <!-- PERSONAL_BLOG:END -->
 
 🇧🇷 **Portuguese (not maintained anymore)**
