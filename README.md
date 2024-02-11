@@ -34,6 +34,7 @@
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
+- [How to run pytest in parallel on GitHub actions](https://guicommits.com/parallelize-pytest-tests-github-actions/)
 - [Effective Python Async like a PRO 🐍🔀](https://guicommits.com/effective-python-async-like-a-pro/)
 - [Pyrun: Execute Python inside your Twitter, Facebook, Linkedin](https://guicommits.com/pyrun-run-python-from-tweets/)
 - [Python Match Case is more powerful than you think 🐍🕹️](https://guicommits.com/python-match-case-examples/)
@@ -43,7 +44,6 @@
 - [How to use yield in Python](https://guicommits.com/python-yield-examples/)
 - [Abstract your code](https://guicommits.com/abstract-your-code/)
 - [AWS Organizations with Terraform Workspaces](https://guicommits.com/why-use-aws-organizations-with-terraform/)
-- [Project: Google Maps Crawler 🗺🪲](https://guicommits.com/selenium-example-with-python-gmaps/)
 <!-- PERSONAL_BLOG:END -->
 
 🇧🇷 **Portuguese (not maintained anymore)**
