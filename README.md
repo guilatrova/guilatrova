@@ -43,6 +43,7 @@
 - [Python 3.11 What&#39;s New?](https://guicommits.com/python-3-11-whats-new/)
 - [Building a Blockchain with Python 🐍⛓️](https://guicommits.com/building-blockchain-with-python/)
 - [How to use yield in Python](https://guicommits.com/python-yield-examples/)
+- [Abstract your code](https://guicommits.com/abstract-your-code/)
 <!-- PERSONAL_BLOG:END -->
 
 🇧🇷 **Portuguese (not maintained anymore)**
