@@ -34,7 +34,6 @@
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
-- [Why God is not misogynistic](https://guicommits.com/why-god-is-not-misogynistic/)
 - [Generic functions and generic classes in Python](https://guicommits.com/python-generic-type-function-class/)
 - [How to run pytest in parallel on GitHub actions](https://guicommits.com/parallelize-pytest-tests-github-actions/)
 - [Effective Python Async like a PRO 🐍🔀](https://guicommits.com/effective-python-async-like-a-pro/)
