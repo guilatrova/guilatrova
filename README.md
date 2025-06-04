@@ -34,6 +34,7 @@
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
+- [Python ChatGPT API and DeepSeek API: Straight‑to‑the‑Point Guide 🐍🤖](https://guicommits.com/python-chatgpt-api-deepseek-api-example/)
 - [Add docstrings to Python Enum members](https://guicommits.com/add-docstrings-python-enum-members/)
 - [Generic functions and generic classes in Python](https://guicommits.com/python-generic-type-function-class/)
 - [How to run pytest in parallel on GitHub actions](https://guicommits.com/parallelize-pytest-tests-github-actions/)
@@ -43,7 +44,6 @@
 - [Organize Python code like a PRO 🐍📦](https://guicommits.com/organize-python-code-like-a-pro/)
 - [Python 3.11 What&#39;s New?](https://guicommits.com/python-3-11-whats-new/)
 - [Building a Blockchain with Python 🐍⛓️](https://guicommits.com/building-blockchain-with-python/)
-- [How to use yield in Python](https://guicommits.com/python-yield-examples/)
 <!-- PERSONAL_BLOG:END -->
 
 🇧🇷 **Portuguese (not maintained anymore)**
