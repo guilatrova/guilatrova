@@ -34,6 +34,7 @@
 
 🇺🇸 **English**
 <!-- PERSONAL_BLOG:START -->
+- [Dayvid: turn any song into a publish-ready video with AI](https://guicommits.com/two-apps-one-itch-what-i-built-instead-of-complaining/)
 - [Bíblia com Apócrifos: a study Bible with the apocrypha &lpar;in Portuguese&rpar;](https://guicommits.com/biblia-com-apocrifos-a-study-bible-with-the-apocrypha-in-portuguese/)
 - [Python ChatGPT API and DeepSeek API: Straight‑to‑the‑Point Guide 🐍🤖](https://guicommits.com/python-chatgpt-api-deepseek-api-example/)
 - [Add docstrings to Python Enum members](https://guicommits.com/add-docstrings-python-enum-members/)
@@ -43,7 +44,6 @@
 - [Pyrun: Execute Python inside your Twitter, Facebook, Linkedin](https://guicommits.com/pyrun-run-python-from-tweets/)
 - [Python Match Case is more powerful than you think 🐍🕹️](https://guicommits.com/python-match-case-examples/)
 - [Organize Python code like a PRO 🐍📦](https://guicommits.com/organize-python-code-like-a-pro/)
-- [Python 3.11 What&#39;s New?](https://guicommits.com/python-3-11-whats-new/)
 <!-- PERSONAL_BLOG:END -->
 
 🇧🇷 **Portuguese (not maintained anymore)**
