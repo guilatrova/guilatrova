@@ -22,7 +22,8 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/orca-stats-dark-mobile.svg" />
+  <!-- Keep the compact color query: GitHub's themed-picture otherwise removes the width condition. -->
+  <source media="(max-width: 600px) and (prefers-color-scheme:dark)" srcset="assets/orca-stats-dark-mobile.svg" />
   <source media="(max-width: 600px)" srcset="assets/orca-stats-light-mobile.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="assets/orca-stats-dark.svg" />
   <img src="assets/orca-stats-light.svg" alt="My AI workshop: agent starts, agent hours, and PRs created" width="100%" />
