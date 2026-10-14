@@ -1,22 +1,19 @@
-# Profile design interview
+# Profile design direction
 
-## Confirmed direction
+## Profile
 
 The profile uses the existing CV pixel art as its header. The user selected a clean portfolio: prominent pixel art, few badges, and organized projects. The header actions are Hire me, Install my skills with the Claude icon, and Follow on X.
 
-## Orca statistics — visual exploration
+## My AI workshop
 
-The user requests a beautiful visual based only on `orca-stats.json`, summing an arbitrary number of host sources. There are currently two sources, the Mac and Dell. They explicitly requested visual design before implementation.
+The user chose **Pixel workshop** after comparing it with Studio. The approved visual uses restrained pixel icons, stepped corners, monospaced numerals, and warm orange accents that match the profile illustration. Keep a single surface with three metrics, arranged horizontally on desktop and vertically on mobile. Provide light and dark themes.
 
-The visual shows combined recorded agent starts, agent hours, and PRs created. It does not introduce token usage, cost, invented trends, or claims of unique agents. The current mockups use a read-only snapshot of the two hosts collected on October 14, 2026, at approximately 22:48 UTC. Host totals can cover different periods. The future implementation must accept N sources rather than hardcode these two machines.
+The heading is **My AI workshop**. The footer contains only **Last updated:** followed by the data capture timestamp. Do not expose source counts, machine names, source-combination wording, or automatic-update messaging in the public visual or its surrounding copy.
 
-### Question: visual treatment
+## Data scope
 
-- **A — Studio:** open spacing, large numerals, restrained outline icons, a warm accent rule, and a single continuous surface.
-- **B — Pixel workshop:** the same metrics and layout hierarchy, with pixel iconography and subtle stepped accents related to the profile illustration.
+Use only aggregate fields from `orca-stats.json`: agent starts, agent hours, and PRs created. Sum an arbitrary number of sources. Do not add token usage or costs; the user explicitly confirmed this scope after asking about tokens.
 
-Both are shown in profile context, with light/dark and mobile preview controls. They share the same collected totals. The mockup is static and labels its snapshot; no refresh job has been implemented.
-
-**Answer:** Pending. No direction is approved yet.
+The current artifact is a static visual mockup using aggregate values captured on October 14, 2026, at 22:48 UTC. Its timestamp describes the data capture, not the design edit. Dynamic collection and README integration remain to be implemented.
 
 Preview: `design/mockups/orca-stats.html`.
