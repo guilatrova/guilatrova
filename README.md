@@ -21,6 +21,13 @@
   <a href="https://github.com/guilatrova?tab=repositories">Open source</a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/orca-stats-dark-mobile.svg" />
+  <source media="(max-width: 600px)" srcset="assets/orca-stats-light-mobile.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/orca-stats-dark.svg" />
+  <img src="assets/orca-stats-light.svg" alt="My AI workshop: agent starts, agent hours, and PRs created" width="100%" />
+</picture>
+
 ## Selected projects
 
 ### 🎬 Dayvid

@@ -14,6 +14,6 @@ The heading is **My AI workshop**. The footer contains only **Last updated:** fo
 
 Use only aggregate fields from `orca-stats.json`: agent starts, agent hours, and PRs created. Sum an arbitrary number of sources. Do not add token usage or costs; the user explicitly confirmed this scope after asking about tokens.
 
-The current artifact is a static visual mockup using aggregate values captured on October 14, 2026, at 22:48 UTC. Its timestamp describes the data capture, not the design edit. Dynamic collection and README integration remain to be implemented.
+The approved Pixel design is now rendered from `scripts/orca-stats.svg`. The updater collects aggregate counters from private configuration and generates the light/dark desktop/mobile images embedded in the README. The image timestamp describes the latest successful collection.
 
-Preview: `design/mockups/orca-stats.html`.
+The profile README is the live preview source. The earlier standalone comparison was removed to keep one visual implementation.
