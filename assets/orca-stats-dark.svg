@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" class="dark" role="img" aria-labelledby="title description">
+<title id="title">My AI workshop</title>
+<desc id="description">31,511 agent starts, 3,965.7 agent hours, 1,079 PRs created. Last updated: Oct 14, 2026 · 23:06 UTC.</desc>
+<style>
+svg{--panel:#111821;--ink:#eef1f5;--muted:#9ba5b5;--line:#293340;--accent:#e49979;--pixel:#263549;font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
+svg.light{--panel:#f8f6f2;--ink:#202936;--muted:#626d7b;--line:#dedfdc;--accent:#a54b2c;--pixel:#e7ddd2}
+text{fill:var(--ink)}.background{fill:var(--panel)}.heading{font-size:21px;font-weight:600;letter-spacing:-1px}.subtitle{fill:var(--muted);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;font-size:13px}.icon{fill:var(--accent)}.value{font-weight:600;letter-spacing:-2px}.label{font-size:12px;fill:var(--muted)}.footer{font-size:11px;fill:var(--muted)}.rule{stroke:var(--line);stroke-dasharray:3 3}.corner{fill:var(--pixel)}.corner-accent{fill:var(--accent)}
+.header{transform:translate(32px,48px)}.metric-0{transform:translate(32px,110px)}.metric-1{transform:translate(321px,110px)}.metric-2{transform:translate(610px,110px)}.footer-group{transform:translate(32px,266px)}.corner-group{transform:translate(850px,30px)}
+.mobile .header{transform:translate(24px,44px)}.mobile .heading{font-size:20px}.mobile .subtitle{font-size:12px}.mobile .metric-0{transform:translate(24px,114px)}.mobile .metric-1{transform:translate(24px,232px)}.mobile .metric-2{transform:translate(24px,350px)}.mobile .value{transform:translate(46px,-47px);letter-spacing:-1.5px}.mobile .label{transform:translate(46px,-47px)}.mobile .icon-group{transform:translate(0px,6px)}.mobile .footer-group{transform:translate(24px,496px)}.mobile .footer{font-size:10px}.mobile .corner-group{transform:translate(350px,25px)}
+</style>
+<defs>
+<symbol id="bot" viewBox="0 0 24 24"><path d="M11 1h2v4h6v2h2v14H3V7h2V5h6V1Zm-6 6v12h14V7H5Zm2 3h3v4H7v-4Zm7 0h3v4h-3v-4ZM9 16h6v2H9v-2Z"/></symbol>
+<symbol id="clock" viewBox="0 0 24 24"><path d="M7 2h10v2H7V2ZM4 4h3v2H4V4ZM2 6h2v12H2V6Zm2 12h3v2H4v-2Zm3 2h10v2H7v-2Zm10-2h3v2h-3v-2Zm3-12h2v12h-2V6Zm-3-2h3v2h-3V4Zm-6 3h2v5h4v2h-6V7Z"/></symbol>
+<symbol id="pr" viewBox="0 0 24 24"><path d="M3 2h6v6H7v8h2v6H3v-6h2V8H3V2Zm2 2v2h2V4H5Zm0 14v2h2v-2H5ZM13 2h2v2h4v2h2v10h1v6h-6v-6h3V7h-4v2h-2V7h-2V4h2V2Zm5 16v2h2v-2h-2Z"/></symbol>
+</defs>
+<path class="background" d="M0 10H10V0H890 V10H900 V320 H890 V330 H10V320 H0Z"/>
+<g class="header"><text class="heading">My AI workshop</text><text class="subtitle" y="27">Human direction. A little extra horsepower.</text></g>
+<g class="corner-group"><path class="corner" d="M0 0h6v6H0zM9 0h6v6H9zM9 9h6v6H9zM18 9h6v6h-6zM18 18h6v6h-6z"/><path class="corner-accent" d="M18 0h6v6h-6z"/></g>
+<g class="metric-0"><g class="icon-group"><use class="icon" href="#bot" width="26" height="26"/></g><text class="value" y="75" font-size="44">31,511</text><text class="label" y="105">Agent starts</text></g>
+<g class="metric-1"><g class="icon-group"><use class="icon" href="#clock" width="26" height="26"/></g><text class="value" y="75" font-size="44">3,965.7</text><text class="label" y="105">Agent hours</text></g>
+<g class="metric-2"><g class="icon-group"><use class="icon" href="#pr" width="26" height="26"/></g><text class="value" y="75" font-size="44">1,079</text><text class="label" y="105">PRs created</text></g>
+<g class="footer-group"><line class="rule" x1="0" y1="0" x2="836" y2="0"/><text class="footer" y="28">Last updated: Oct 14, 2026 · 23:06 UTC</text></g>
+</svg>
