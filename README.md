@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/pixel-dev-claude.png" alt="Pixel art of Guilherme coding at his desk with Claude" width="100%" />
+</p>
+
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 <p align="center">
