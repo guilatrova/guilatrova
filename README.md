@@ -28,24 +28,24 @@
   <img src="assets/orca-stats-light.svg" alt="My AI workshop: agent starts, agent hours, and PRs created" width="100%" />
 </picture>
 
-## Selected projects
+## <img src="assets/icons/projects.svg" width="24" height="24" align="center" alt="" /> Selected projects
 
-### 🎬 Dayvid
+### <img src="assets/icons/video.svg" width="24" height="24" align="center" alt="" /> Dayvid
 Turn any song into a publish-ready video with AI.
 
 [Read the story →](https://guicommits.com/two-apps-one-itch-what-i-built-instead-of-complaining/)
 
-### 📖 Bíblia com Apócrifos
+### <img src="assets/icons/book.svg" width="24" height="24" align="center" alt="" /> Bíblia com Apócrifos
 A study Bible with the apocrypha, in Portuguese.
 
 [Explore the project →](https://guicommits.com/biblia-com-apocrifos-a-study-bible-with-the-apocrypha-in-portuguese/)
 
-### 🦖 Tryceratops
+### <img src="assets/icons/dinosaur.svg" width="24" height="24" align="center" alt="" /> Tryceratops
 An open-source Python linter for exception handling.
 
 [View on GitHub →](https://github.com/guilatrova/tryceratops) · [Read the story →](https://guicommits.com/project-tryceratops/)
 
-## Latest writing
+## <img src="assets/icons/writing.svg" width="24" height="24" align="center" alt="" /> Latest writing
 
 Notes on building software, Python, and the products I create. More on [Gui Commits](https://guicommits.com).
 
