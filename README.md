@@ -12,6 +12,8 @@
   <a href="https://hire.guilatrova.dev"><img src="https://img.shields.io/badge/Hire_me-C96442?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjMiIHk9IjciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxNCIgcng9IjIiLz48cGF0aCBkPSJNOCA3VjVhMiAyIDAgMCAxIDItMmg0YTIgMiAwIDAgMSAyIDJ2Mk0zIDEyYTIwIDIwIDAgMCAwIDE4IDBNMTIgMTF2NCIvPjwvc3ZnPg%3D%3D" alt="Hire me" /></a>
   &nbsp;
   <a href="https://github.com/guilatrova/skills"><img src="https://img.shields.io/badge/Install_my_skills-242938?style=for-the-badge&amp;logo=claude&amp;logoColor=D97757" alt="Install my skills" /></a>
+  &nbsp;
+  <a href="https://twitter.com/guilatrova"><img src="https://img.shields.io/badge/Follow_on_X_%2F_Twitter-242938?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Follow on X / Twitter" /></a>
 </p>
 
 <p align="center">
