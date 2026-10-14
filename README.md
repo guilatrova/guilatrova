@@ -13,7 +13,7 @@
   &nbsp;
   <a href="https://github.com/guilatrova/skills"><img src="https://img.shields.io/badge/Install_my_skills-242938?style=for-the-badge&amp;logo=claude&amp;logoColor=D97757" alt="Install my skills" /></a>
   &nbsp;
-  <a href="https://twitter.com/guilatrova"><img src="https://img.shields.io/badge/Follow_on_X_%2F_Twitter-242938?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Follow on X / Twitter" /></a>
+  <a href="https://twitter.com/guilatrova"><img src="https://img.shields.io/badge/Follow_on_X-242938?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Follow on X" /></a>
 </p>
 
 <p align="center">
