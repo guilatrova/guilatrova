@@ -2,41 +2,44 @@
   <img src="assets/pixel-dev-claude.png" alt="Pixel art of Guilherme coding at his desk with Claude" width="100%" />
 </p>
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+<h1 align="center">Guilherme Latrova</h1>
 
 <p align="center">
-<a href="#"><img alt="follow on github" src="https://img.shields.io/github/followers/guilatrova?style=social"/></a>
-<a href="https://twitter.com/intent/user?screen_name=guilatrova"><img alt="follow on twitter" src="https://img.shields.io/twitter/follow/guilatrova?style=social"/></a>
+  Software engineer in Brazil. Building products, open source, and tools that make life easier.
 </p>
 
-## 🧑‍💻 What I'm up to
+<p align="center">
+  <a href="https://hire.guilatrova.dev"><img src="https://img.shields.io/badge/Hire_me-C96442?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjMiIHk9IjciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxNCIgcng9IjIiLz48cGF0aCBkPSJNOCA3VjVhMiAyIDAgMCAxIDItMmg0YTIgMiAwIDAgMSAyIDJ2Mk0zIDEyYTIwIDIwIDAgMCAwIDE4IDBNMTIgMTF2NCIvPjwvc3ZnPg%3D%3D" alt="Hire me" /></a>
+  &nbsp;
+  <a href="https://github.com/guilatrova/skills"><img src="https://img.shields.io/badge/Install_my_skills-242938?style=for-the-badge&amp;logo=claude&amp;logoColor=D97757" alt="Install my skills" /></a>
+</p>
 
-- <details>
-  <summary>
-  🦖 I’m taking care of a <a href="https://guicommits.com/project-tryceratops/">dinosaur linter for Python</a>
-  </summary>
+<p align="center">
+  <a href="https://guicommits.com">Writing</a> &nbsp; · &nbsp;
+  <a href="https://github.com/guilatrova?tab=repositories">Open source</a>
+</p>
 
-   <br />
-   <p align="center">
-      <a href="https://github.com/guilatrova/tryceratops"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guilatrova&repo=tryceratops" /></a>
-   </p>
+## Selected projects
 
-  </details>
+### 🎬 Dayvid
+Turn any song into a publish-ready video with AI.
 
-- 🎯 I’m currently working hard from Brazil 🇧🇷 to solve big challenges in a San Francisco 🇺🇸 startup.
+[Read the story →](https://guicommits.com/two-apps-one-itch-what-i-built-instead-of-complaining/)
 
+### 📖 Bíblia com Apócrifos
+A study Bible with the apocrypha, in Portuguese.
 
-### ⚡ Fun facts
+[Explore the project →](https://guicommits.com/biblia-com-apocrifos-a-study-bible-with-the-apocrypha-in-portuguese/)
 
-- 😛 I broke production a few times haha
-- 🥊 Boxing, skipping and jogging helps keeping me focused on my work
-- 🧘 I often meditate to manage my anxiety
-- 🤖 I automate everything that I can ([like this readme](https://github.com/guilatrova/guilatrova))
+### 🦖 Tryceratops
+An open-source Python linter for exception handling.
 
+[View on GitHub →](https://github.com/guilatrova/tryceratops) · [Read the story →](https://guicommits.com/project-tryceratops/)
 
-## 📝 [Blog](https://guicommits.com) Posts
+## Latest writing
 
-🇺🇸 **English**
+Notes on building software, Python, and the products I create. More on [Gui Commits](https://guicommits.com).
+
 <!-- PERSONAL_BLOG:START -->
 - [Dayvid: turn any song into a publish-ready video with AI](https://guicommits.com/two-apps-one-itch-what-i-built-instead-of-complaining/)
 - [Bíblia com Apócrifos: a study Bible with the apocrypha &lpar;in Portuguese&rpar;](https://guicommits.com/biblia-com-apocrifos-a-study-bible-with-the-apocrypha-in-portuguese/)
@@ -50,17 +53,13 @@
 - [Organize Python code like a PRO 🐍📦](https://guicommits.com/organize-python-code-like-a-pro/)
 <!-- PERSONAL_BLOG:END -->
 
-🇧🇷 **Portuguese (not maintained anymore)**
+<details>
+<summary>Earlier writing in Portuguese</summary>
+
 <!-- MEDIUM-BR:START -->
 - [O que aprendi como líder em 2020](https://guilatrova.medium.com/o-que-aprendi-como-l%C3%ADder-em-2020-39b125f7176b?source=rss-d7e46d8b9f7b------2)
 - [Como um DevOps você deveria estar fazendo seus backups assim](https://guilatrova.medium.com/como-um-devops-voc%C3%AA-deveria-estar-fazendo-seus-backups-assim-517ad7c1b3c6?source=rss-d7e46d8b9f7b------2)
 - [Como obtive dados de todos os participantes da maratona IBM Behind The Code](https://guilatrova.medium.com/como-obtive-dados-de-todos-os-participantes-da-maratona-ibm-behind-the-code-fd2038f5a187?source=rss-d7e46d8b9f7b------2)
 <!-- MEDIUM-BR:END -->
 
-## 📈 Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=guilatrova&show_icons=true&theme=merko" />
-
-</p>
+</details>
