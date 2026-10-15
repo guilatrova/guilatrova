@@ -1,0 +1,19 @@
+scripts:
+  setup: |
+    #!/usr/bin/env bash
+    set -euo pipefail
+
+    : "${ORCA_ROOT_PATH:?Orca must set ORCA_ROOT_PATH to the primary checkout}"
+    : "${ORCA_WORKTREE_PATH:?Orca must set ORCA_WORKTREE_PATH to the new worktree}"
+
+    source_path="$ORCA_ROOT_PATH/.env"
+    destination_path="$ORCA_WORKTREE_PATH/.env"
+
+    if [ ! -e "$source_path" ]; then
+      printf 'Skipping optional local file: %s\n' "$source_path"
+    elif [ -e "$destination_path" ] || [ -L "$destination_path" ]; then
+      printf 'Preserving existing destination: %s\n' "$destination_path"
+    else
+      ln -s "$source_path" "$destination_path"
+      printf 'Linked local file: %s\n' "$destination_path"
+    fi
