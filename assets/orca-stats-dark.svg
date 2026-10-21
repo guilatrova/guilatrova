@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" class="dark" role="img" aria-labelledby="title description">
 <title id="title">My AI workshop</title>
-<desc id="description">32,660 agent starts, 4,075.3 agent hours, 1,129 PRs created. Last updated: Oct 20, 2026 · 13:30 UTC.</desc>
+<desc id="description">32,947 agent starts, 4,084.3 agent hours, 1,141 PRs created. Last updated: Oct 21, 2026 · 13:30 UTC.</desc>
 <style>
 svg{--panel:#111821;--ink:#eef1f5;--muted:#9ba5b5;--line:#293340;--accent:#e49979;--pixel:#263549;font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
 svg.light{--panel:#f8f6f2;--ink:#202936;--muted:#626d7b;--line:#dedfdc;--accent:#a54b2c;--pixel:#e7ddd2}
@@ -16,8 +16,8 @@ text{fill:var(--ink)}.background{fill:var(--panel)}.heading{font-size:21px;font-
 <path class="background" d="M0 10H10V0H890 V10H900 V320 H890 V330 H10V320 H0Z"/>
 <g class="header"><text class="heading">My AI workshop</text><text class="subtitle" y="27">Human direction. A little extra horsepower.</text></g>
 <g class="corner-group"><path class="corner" d="M0 0h6v6H0zM9 0h6v6H9zM9 9h6v6H9zM18 9h6v6h-6zM18 18h6v6h-6z"/><path class="corner-accent" d="M18 0h6v6h-6z"/></g>
-<g class="metric-0"><g class="icon-group"><use class="icon" href="#bot" width="26" height="26"/></g><text class="value" y="75" font-size="44">32,660</text><text class="label" y="105">Agent starts</text></g>
-<g class="metric-1"><g class="icon-group"><use class="icon" href="#clock" width="26" height="26"/></g><text class="value" y="75" font-size="44">4,075.3</text><text class="label" y="105">Agent hours</text></g>
-<g class="metric-2"><g class="icon-group"><use class="icon" href="#pr" width="26" height="26"/></g><text class="value" y="75" font-size="44">1,129</text><text class="label" y="105">PRs created</text></g>
-<g class="footer-group"><line class="rule" x1="0" y1="0" x2="836" y2="0"/><text class="footer" y="28">Last updated: Oct 20, 2026 · 13:30 UTC</text></g>
+<g class="metric-0"><g class="icon-group"><use class="icon" href="#bot" width="26" height="26"/></g><text class="value" y="75" font-size="44">32,947</text><text class="label" y="105">Agent starts</text></g>
+<g class="metric-1"><g class="icon-group"><use class="icon" href="#clock" width="26" height="26"/></g><text class="value" y="75" font-size="44">4,084.3</text><text class="label" y="105">Agent hours</text></g>
+<g class="metric-2"><g class="icon-group"><use class="icon" href="#pr" width="26" height="26"/></g><text class="value" y="75" font-size="44">1,141</text><text class="label" y="105">PRs created</text></g>
+<g class="footer-group"><line class="rule" x1="0" y1="0" x2="836" y2="0"/><text class="footer" y="28">Last updated: Oct 21, 2026 · 13:30 UTC</text></g>
 </svg>
